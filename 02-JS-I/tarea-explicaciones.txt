@@ -1,0 +1,13 @@
+Variables: las variables son una cajita donde puedes guardar algo que vas a usar despues o que no vas a usar en mucho tiempo, par crearlas utilizamos la palabra (var), estas variables tambien pueden tener un valor y se lo puedes dar usando el signo = (igual).
+
+Strings: Son palabras y siempre debemos ponerlas entre comillas, no importa si es simple o doble, todo lo que tengamos entre comillas es una string.
+
+Funciones: Son una parte esencial de todo lenguaje de programacion sobre todo en JavaScript. Son tipos de objetos llamados obvjetos invocables, por lo cual poseen las mismas propiedades que cualquier otro objeto
+
+Argumentos: Los argumentos son variables quepodemos agregar a nuestras funciones, en una función podmeos agregar más de un argumento colocando una coma (,) entre ellos.
+
+Return: Lo utilizamos si queremos devolver algo dentro de la función, es decir cuando utilizamos return en una función, esta detiene inmediatamente lo que estaba haciendo y devuelve lo especificado.
+
+Declaraciones(if): Lo utlizamos para que nuestra función verifique si algo es verdadero, ejemplo tenemos que 22>18 de esta manera nos devuelve true y la funcion se detenedrá. Si fuera lo contrario omite el codigo y devuelve false.
+
+Valores Booleanos: Es un concepto que alimenta el codigo binario y el nucleo o cerebro de las computadoras, basicamente tenemos dos posibles opciones, verdadero o falso, es algo muy simple pero despues puede volverse un poco dificil, ej JavaScript tenemos dos posibles valores booleanos y estos son true o false.
