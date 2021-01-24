@@ -1,0 +1,1 @@
+Arrays: Son objetos muy identicos a las listas, tienen la capacidad de efctuar operaciones de recorrdido, tanto la longitud como los elementos pueden ser variables
