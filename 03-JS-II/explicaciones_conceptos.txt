@@ -1,0 +1,7 @@
+For: Se utiliza para repetir una o mas instrucciones un determinado numero de veces, comunmente se usa cuando sabemos exactamente cuantas veces queremos que se repita esta instrucción. Para utlizarlo debemos usar la palabra for seguido de un parentesis donde irán, 1 una variable, 2 una condicion que tendrá la variable y 3 cuanto incrementará esta variable.
+
+&&: Este operador logico compara ambas expresiones y nos dará como resultado verdadero si ambas expresiones son true, si uno o mas son falsos devolverá false.
+
+||: Determina si una de las epxresiones es verdadera, si una o ambas  es verdadero nos muestra true. Si ambas son son falsas nos mostrará false.
+
+!: Este operador funciona como una negación, y nos dara como resultado el valor booleano opuesto al que se le diga que muestre, ejemplo si tenemos return !== true el signo ! antes de los dos = cambia todo el sentido de la operacion.
