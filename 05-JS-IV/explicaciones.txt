@@ -1,0 +1,9 @@
+Objetos: los objetos a diferencia de los arrays pueden contener muchisima informacion de una sola cosa, se declaran o se llaman usando las llaves {}.
+
+Propiedades: Son como "variables" que están asociadas al objeto, las propiedades definen las caracteristicas del objeto en cuestion.
+
+Métodos: Los metodos son las funciones de los objetos, es decir las acciones que este objeto puede realizar o lo que nosotros queramos que este objeto realice.
+
+Bucle for...in: Recorre un objeto pasando por cada una de sus propiedades para actuar sobre ellas de alguna manera.
+
+Notación de puntos vs Notación de corchetes: con la notacion de puntos llamamos a la propiedad de una matriz mienstras que con la notacion de corchetes llamanos al elemento de una matriz.
